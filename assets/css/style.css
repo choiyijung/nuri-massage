@@ -4091,3 +4091,89 @@ button:focus-visible{
 .main-title-section{padding-bottom:6px}
 .main-title-section h1{margin-bottom:0}
 .main-title-section + .search-area{padding-top:10px}
+
+/* ===== SITE REGION + SHOP COLOR OVERRIDE 20261007 ===== */
+
+/* ?? ??? ?? */
+.article-shell {
+    background:#F7FAFB;
+}
+.article-shell .article-topbar {
+    background:#ffffff;
+    border-bottom-color:#DDF0EA;
+}
+.article-shell .article-brand .mark {
+    background:#536B84!important;
+    color:#ffffff!important;
+    border-color:#536B84!important;
+}
+.article-shell .ml-top-shop-section {
+    background:#F7FAFB;
+}
+.article-shell .ml-top-shop-kicker,
+.article-shell .ml-top-shop-count {
+    color:#536B84!important;
+}
+.article-shell .ml-top-shop-card {
+    background:#ffffff!important;
+    border-color:#DDF0EA!important;
+    box-shadow:0 7px 20px rgba(0,0,0,.055);
+}
+.article-shell .ml-top-shop-card:hover {
+    border-color:#536B84!important;
+    box-shadow:0 10px 24px rgba(0,0,0,.09);
+}
+.article-shell .ml-top-shop-line {
+    background:#DDF0EA!important;
+}
+.article-shell .ml-top-shop-name {
+    color:#364A5F!important;
+}
+
+/* ?? ?? ?? */
+.ml-test-detail {
+    background:#F7FAFB;
+}
+.ml-test-detail .ml-test-hero,
+.ml-test-detail .ml-test-section {
+    border-color:#DDF0EA!important;
+}
+.ml-test-detail .ml-test-hero {
+    background:linear-gradient(135deg,#ffffff 0%,#F7FAFB 100%)!important;
+}
+.ml-test-detail .ml-test-loc,
+.ml-test-detail .ml-test-feature,
+.ml-test-detail .ml-faq-badge {
+    color:#536B84!important;
+}
+.ml-test-detail .ml-test-tabs {
+    border-color:#DDF0EA!important;
+}
+.ml-test-detail .ml-course-row,
+.ml-test-detail .ml-info-row,
+.ml-test-detail .ml-faq-item {
+    border-color:#DDF0EA!important;
+}
+.ml-test-detail .ml-course-price {
+    color:#536B84!important;
+}
+.ml-test-detail .ml-notice-box {
+    background:#F7FAFB!important;
+    border-color:#DDF0EA!important;
+}
+.ml-test-detail .call-btn,
+.ml-test-detail .ml-sticky-call {
+    background:#536B84!important;
+    border-color:#536B84!important;
+    color:#ffffff!important;
+}
+.ml-test-detail .sms-btn {
+    background:#ffffff!important;
+    border-color:#536B84!important;
+    color:#536B84!important;
+}
+.ml-test-detail .ml-test-title,
+.ml-test-detail .ml-course-name,
+.ml-test-detail .ml-faq-title {
+    color:#364A5F!important;
+}
